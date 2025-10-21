@@ -267,6 +267,9 @@ int main() {
 
 ## OUTPUT:
 
+<img width="368" height="263" alt="image" src="https://github.com/user-attachments/assets/9ccea6ee-4578-4d31-ac21-b793a0d3a37e" />
+
+
 ## RESULT:
 The program successfully takes three subject marks, calculates the total and percentage, and correctly determines the division based on predefined grading logic.
 
