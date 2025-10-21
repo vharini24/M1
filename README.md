@@ -37,12 +37,7 @@ Write a C program to read 3 characters one by one and print the characters in a 
 
 
 
-
-
-
-
-
-
+<img width="376" height="205" alt="image" src="https://github.com/user-attachments/assets/412eb7bc-b878-419e-87fb-11eeb1739b65" />
 
 
 
