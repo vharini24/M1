@@ -11,9 +11,12 @@ Write a C program to read 3 characters one by one and print the characters in a 
 
 ## PROGRAM:
 
-#include <stdio.h>
 
-int main() {
+
+
+ #include <stdio.h>
+ 
+ int main() {
     char ch1, ch2, ch3;
 
     printf("Enter first character: ");
@@ -66,9 +69,12 @@ Write a C program to read A values and check whether A is positive number or not
 
 # PROGRAM:
 
-#include <stdio.h>
 
-int main() {
+
+
+ #include <stdio.h>
+
+ int main() {
     int n;
 
     printf("Enter a number: ");
