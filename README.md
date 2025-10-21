@@ -140,6 +140,7 @@ int main() {
 
 ## OUTPUT:
 
+<img width="407" height="183" alt="image" src="https://github.com/user-attachments/assets/04e1c071-df8f-46f9-a01b-da5c330adb7d" />
 
 
 
