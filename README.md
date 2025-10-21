@@ -87,6 +87,7 @@ Write a C program to read A values and check whether A is positive number or not
 # OUTPUT:
 
 
+<img width="366" height="163" alt="image" src="https://github.com/user-attachments/assets/5b443ff3-846d-4ac9-98b6-5fd9a2ca4777" />
 
 
 
